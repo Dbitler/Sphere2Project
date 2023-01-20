@@ -73,7 +73,7 @@ struct ContentView: View {
     }
     
     func calculateBoundingBox(){
-        // calls upon the bounding box parameters instance, in exactly the same way as the Sphereparameters instance.
+        //calls upon the bounding box parameters instance, in exactly the same way as the Sphereparameters instance.
         let myboxclassinstance = BoundingBoxParameters()
         myboxclassinstance.boxradius = sphericalradius
         

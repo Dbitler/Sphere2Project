@@ -83,7 +83,6 @@
 		ABB80927297756B600B83276 = {
 			isa = PBXGroup;
 			children = (
-				ABB8099F29775E3900B83276 /* BoundingBoxParameters.swift */,
 				ABB80932297756B600B83276 /* Sphere2Project */,
 				ABB80944297756B600B83276 /* Sphere2ProjectTests */,
 				ABB8094E297756B600B83276 /* Sphere2ProjectUITests */,
@@ -105,6 +104,7 @@
 			isa = PBXGroup;
 			children = (
 				ABB80933297756B600B83276 /* Sphere2ProjectApp.swift */,
+				ABB8099F29775E3900B83276 /* BoundingBoxParameters.swift */,
 				ABB80935297756B600B83276 /* ContentView.swift */,
 				ABB8096029775B8400B83276 /* SphereParameters.swift */,
 				ABB80937297756B600B83276 /* Assets.xcassets */,
